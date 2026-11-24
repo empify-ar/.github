@@ -19,5 +19,3 @@ Empify es una plataforma argentina para crear y vender ebooks. Probás la idea c
 ---
 
 *In English:* Empify is an Argentine platform to create and sell ebooks. Test your idea with AI-simulated buyers, let AI draft the ebook, the cover and the sales page, and sell from your own store with Mercado Pago.
-
-Esta organización no tiene relación con otros proyectos llamados "Empify".
