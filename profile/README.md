@@ -6,7 +6,7 @@ Empify es una plataforma argentina para crear y vender ebooks. Probás la idea c
 
 ## Qué hay acá
 
-- **[empify-ia](https://github.com/empify-ar/empify-ia)**: conectá tu IA (Claude y otros asistentes) a tu cuenta de Empify. Trae los pasos de conexión, el complemento de Claude Code y las habilidades para leer tus ventas, validar una idea y armar los textos de tus anuncios.
+- **[empify-ia](https://github.com/empify-ar/empify-ia)**: doce habilidades abiertas (licencia MIT) para preparar, lanzar y vender un ebook con IA, que andan sin cuenta, y la conexión opcional a tu cuenta de Empify para leer tus ventas y tus visitas. Probado con Claude.
 
 ## Enlaces
 
